@@ -73,5 +73,7 @@ PC(HardDisk HD){
         HardDisk HD = new HardDisk(2048);
         HD.setSpeed(1000.0);
 ```
-# 五、实验感想：
+# 五、实验结果：
+
+# 六、实验感想：
 ### 明晰了类与对象的概念，以及其组成。对java面向对象的编程方式有了更好的了解。
