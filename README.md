@@ -74,6 +74,6 @@ PC(HardDisk HD){
         HD.setSpeed(1000.0);
 ```
 # 五、实验结果：
-![实验结果截图](https://github.com/GM-01/JavaExperiment-1/blob/main/62890c8ecddb5118085dd75fca49461.png)
+![实验结果截图](https://github.com/TAP-APIA/java-experience-1st/blob/main/e1e3f31f6955d5397def11202624a4d.png)
 # 六、实验感想：
 ### 明晰了类与对象的概念，以及其组成。对java面向对象的编程方式有了更好的了解。
